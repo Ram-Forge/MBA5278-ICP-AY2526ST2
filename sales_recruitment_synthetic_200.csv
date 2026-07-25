@@ -1,0 +1,201 @@
+age,gender,years_experience,highest_education,technical_test_score,interview_rating,communication_assessment,leadership_assessment,expected_salary_gbp,previous_job_tenure_years,hired,manager_satisfaction_after_one_year,sales_achieved_after_one_year_gbp,retained_after_one_year
+46,Female,12.7,High School,67,8.4,5,3.9,60000,2.5,Yes,7.7,132000,No
+41,Male,12.1,Bachelor's,41,8.2,3.7,4.8,44500,3.6,Yes,7.2,103200,Yes
+40,Female,12.5,Bachelor's,69,8,8.2,5.6,55500,1.6,Yes,10,157000,Yes
+38,Female,11.4,High School,61,7.7,5.5,7.8,57000,2.5,Yes,6.8,116200,Yes
+27,Male,3.9,Diploma,59,7.7,6.6,7.3,37500,1.3,Yes,5.4,50000,Yes
+48,Female,10.8,Diploma,89,7.5,7.6,6.8,54000,1.3,Yes,7.6,115400,Yes
+32,Female,3.8,Diploma,86,8.2,8.7,6.9,50000,0.4,Yes,8.1,129800,Yes
+39,Female,16.6,Diploma,73,6,4.6,6,54500,2.1,No,,,
+34,Non-binary,6,Bachelor's,47,6.6,5.9,7.7,50000,5.3,No,,,
+43,Female,7.9,Bachelor's,86,7,6.7,8.7,55500,2.6,No,,,
+30,Male,4,High School,82,7.7,8.1,6.3,36500,2.5,Yes,7,130300,Yes
+38,Female,8.4,Diploma,76,5.9,7,6.7,55000,0.2,No,,,
+42,Female,7.1,Bachelor's,55,6.2,5.5,7,49000,1.9,No,,,
+36,Male,9.7,Master's,60,9.7,6.5,6.4,49500,2.3,Yes,8.3,108700,Yes
+40,Male,11.5,Bachelor's,65,6.4,3.3,6.9,48000,2.2,No,,,
+31,Female,4.3,High School,65,8.4,6,5.6,38500,0.2,No,,,
+29,Female,2.1,Master's,78,7.7,6.6,4.3,44000,0.6,No,,,
+25,Female,3.5,Bachelor's,82,6.4,5,6.4,35500,3.5,No,,,
+38,Female,8.8,Master's,64,7.3,8.7,4.7,54000,2.4,Yes,6.3,91700,No
+32,Female,1.6,Master's,42,5.6,5.8,4.6,30500,0.2,No,,,
+49,Female,15.4,Diploma,84,5.7,2,4.1,61000,3.4,No,,,
+36,Male,8.8,Diploma,78,7.5,3.9,5.9,53000,3.9,Yes,8.6,111200,No
+28,Female,1.1,Diploma,49,7.6,10,7.7,35000,3.4,Yes,7.2,120800,Yes
+35,Male,5.4,Bachelor's,50,4.8,6.3,6.2,40500,2.3,Yes,6.6,99600,Yes
+36,Male,7.3,Bachelor's,69,7.9,6.6,5.8,49500,0.7,No,,,
+23,Non-binary,4.6,Bachelor's,98,8.4,5.4,7.7,43500,4.2,Yes,4.3,83100,Yes
+45,Female,9.7,Bachelor's,92,7.8,5.4,6.1,56000,1.5,Yes,8.6,135600,Yes
+37,Female,8.2,Bachelor's,71,8.6,4.9,3.4,44500,1.9,No,,,
+42,Female,12.2,Bachelor's,93,7.7,6.1,8.5,54000,1.3,Yes,8.6,111600,No
+30,Male,8,Master's,76,6.5,5.9,3.8,44000,5.7,No,,,
+32,Male,4.2,Bachelor's,61,8.4,5.8,4.9,43000,2.6,Yes,8.1,109000,Yes
+41,Female,9.4,Diploma,54,5.8,4.5,6.1,38500,3.3,No,,,
+31,Male,10.5,Bachelor's,86,7,8.3,8.4,58000,1.3,Yes,9.8,135200,Yes
+42,Female,11.1,Bachelor's,77,8.3,6.9,7.9,56500,2.2,No,,,
+49,Male,12.6,Diploma,64,5.7,5.1,6.1,55000,1.2,No,,,
+30,Female,4.3,Master's,74,6.9,6.5,7.7,42500,0.2,No,,,
+30,Male,5.7,Diploma,56,7.8,6.3,5.7,37500,1.6,Yes,8.5,117100,Yes
+33,Female,9.5,Bachelor's,68,8.5,6.1,6.3,47000,3.2,Yes,7.7,87800,Yes
+35,Non-binary,6.1,Bachelor's,59,7.1,7.1,6.4,39500,2.3,Yes,7.6,89200,Yes
+31,Male,6.3,Bachelor's,83,6.1,4.9,6.9,44000,1.8,No,,,
+38,Female,8.1,Bachelor's,96,6.6,10,3.4,53500,1.7,Yes,7.1,140000,No
+31,Male,5.1,Bachelor's,66,6.7,5.7,5.8,43500,3.1,No,,,
+37,Male,10.2,Master's,93,8.8,3.9,6,49000,2.3,Yes,6.7,94400,Yes
+26,Male,0,Bachelor's,68,6.5,4,5.7,28000,1.2,Yes,6.6,75000,Yes
+31,Male,3.4,Master's,84,9.7,7.2,6.3,47500,0.6,Yes,8.8,112100,Yes
+27,Female,3.9,Master's,62,8,6.9,5.7,42000,0.4,No,,,
+51,Female,15.9,High School,75,6.2,5.3,5.8,69000,0.2,Yes,7.3,132400,Yes
+30,Female,5.8,Bachelor's,46,7.4,4.6,5,41000,2.3,No,,,
+42,Male,13.1,Bachelor's,76,8.4,7,6.8,45500,4.8,Yes,9.6,100100,Yes
+32,Female,0.6,Master's,51,8.6,5.1,5.5,35000,2.4,No,,,
+30,Female,2.2,Bachelor's,57,5.1,6.3,4.2,31500,1.6,No,,,
+33,Female,5.3,Bachelor's,50,6.7,7.1,5.8,34500,1.3,Yes,5.6,65000,No
+43,Female,10.6,Master's,98,6,5.1,6.8,56500,1.2,Yes,8.2,158700,Yes
+37,Female,11.8,Bachelor's,78,9,8.9,6.5,48000,1.8,Yes,8.2,130100,No
+24,Male,1.7,Master's,94,7.3,5.3,5.4,39000,0.6,Yes,7.9,99800,Yes
+42,Female,12.2,Bachelor's,83,8.3,7.9,7,56500,3.3,Yes,8.9,140000,Yes
+38,Female,8.8,Bachelor's,76,6,5.9,6,53000,4.5,No,,,
+39,Male,9.6,Master's,68,6.5,5.2,4.6,47000,2.1,No,,,
+28,Male,3.9,Bachelor's,36,5.3,5.2,5.6,36000,3.5,No,,,
+36,Female,1.7,Master's,61,7.2,8,6.9,32000,0.9,No,,,
+50,Male,17.8,Bachelor's,67,9.2,9.3,8.6,62000,2.8,Yes,9.7,173200,Yes
+44,Female,6.9,Diploma,86,8.5,7.6,5.8,45500,0.5,Yes,7.5,107300,Yes
+44,Male,9.2,Bachelor's,63,9.1,7.2,8.2,55500,0.7,Yes,9.1,96400,No
+53,Male,19.4,Bachelor's,76,6.8,3.3,6.9,66000,1.8,Yes,5.8,101400,No
+26,Female,5,Diploma,63,9,6.2,5.3,43000,3.6,No,,,
+45,Female,7.2,Master's,71,7.4,6,4,51000,2.2,No,,,
+42,Female,8.1,Diploma,84,7.9,8.3,6.4,46500,4.1,Yes,7.5,114400,Yes
+30,Male,5,Master's,52,6.1,5,2.5,40000,3.1,No,,,
+39,Female,5.2,Bachelor's,74,8,9.1,7.1,51000,1.9,Yes,9.2,142900,Yes
+25,Male,3.1,Bachelor's,64,5.8,3.6,2.2,43000,1.8,No,,,
+30,Male,8.7,Bachelor's,52,7.2,6.5,5.2,51000,1,No,,,
+37,Female,8,Diploma,60,7.3,4,3.5,45000,1.5,No,,,
+44,Male,9.8,Bachelor's,74,7.9,4.5,4.6,52000,1.7,Yes,8,90300,Yes
+33,Female,4.3,Bachelor's,34,5.5,5.1,5.7,41000,2.5,No,,,
+31,Male,2.5,Diploma,66,8.3,3.2,7.4,36500,0.9,No,,,
+31,Female,2.9,Bachelor's,72,7.9,7.6,4.3,37000,1.7,Yes,8.5,96000,Yes
+29,Male,0.5,Bachelor's,75,7.4,5.2,4.4,39000,0.2,Yes,8.7,116400,Yes
+36,Female,8.2,High School,53,8.1,7.2,6,48000,1.4,Yes,7.6,110200,Yes
+28,Male,1.1,Master's,73,8.3,6.6,6.3,36000,2.2,No,,,
+33,Female,9.1,Bachelor's,83,6.9,3.8,4.4,51000,3.3,Yes,4.9,80100,Yes
+36,Male,4.5,Diploma,52,5.1,4.4,4.8,37000,1.8,No,,,
+33,Female,4.2,Bachelor's,79,6.9,4.7,6.2,36500,0.8,Yes,6.4,86100,Yes
+29,Female,6,High School,70,9,7.1,6.6,43500,2,No,,,
+35,Male,2.5,Bachelor's,76,8.7,6.8,4.8,41500,1,Yes,7.4,109300,Yes
+39,Female,7.7,Bachelor's,49,7.5,9,6.6,38000,3.4,No,,,
+29,Female,2.8,Master's,31,5.8,4.6,4,28000,2,No,,,
+33,Female,9.5,Diploma,71,7,8,8.6,40500,0.6,Yes,8,135100,Yes
+35,Male,5.8,Bachelor's,61,7.5,7.7,7.1,43000,2.5,Yes,10,118900,Yes
+39,Male,11.1,Diploma,69,7.8,5.7,6.7,48500,1.2,Yes,6.6,71200,Yes
+27,Female,3.2,Diploma,45,4.8,2.5,3.4,43500,2,No,,,
+29,Male,5.8,Diploma,53,6,9.2,3.8,42000,0.9,Yes,7.8,126300,No
+27,Male,4.6,High School,83,7.8,8.5,7.8,42500,0.4,Yes,8.3,131800,Yes
+47,Female,12.2,Diploma,90,8,5.1,6.3,56000,4.1,No,,,
+27,Female,2.2,Diploma,82,7.9,8.1,6,38000,1.4,No,,,
+35,Female,6.3,Bachelor's,65,7.3,3,6.3,47000,1.7,Yes,6.2,55300,Yes
+28,Female,6.6,High School,74,7.2,3.2,7.2,42000,3,No,,,
+35,Male,1,Bachelor's,98,7.9,6.8,6.1,38000,2.8,Yes,9.2,123800,Yes
+25,Male,1.2,Bachelor's,79,8,7.4,6.2,36000,0.3,Yes,9,147300,Yes
+28,Female,2.9,Diploma,66,8.4,5.7,6.9,44000,0.7,No,,,
+38,Female,11.5,Master's,39,7.6,4.6,6.9,47000,2.2,No,,,
+42,Female,11.9,Bachelor's,98,8,6.3,5.6,59000,4.3,Yes,8.9,123600,Yes
+47,Female,12.6,Diploma,73,5.8,7.5,6.1,55000,3.2,Yes,10,188200,Yes
+34,Male,8.4,High School,92,9.7,7.6,7,55500,1.9,Yes,8.2,143100,No
+29,Female,4.3,Master's,72,7.2,9.1,7.9,36500,0.4,Yes,7.9,131100,Yes
+28,Female,0.7,High School,80,7.7,7,6.6,37000,1.6,Yes,8,90200,Yes
+40,Male,8.5,Bachelor's,71,6.6,2,2.7,49500,2.2,No,,,
+51,Male,17.7,High School,80,8,6.4,7.3,59500,2.9,Yes,8,108900,Yes
+41,Female,11.9,Bachelor's,57,7.3,8.2,8,56500,4.3,Yes,8.1,121800,Yes
+45,Male,12.1,Bachelor's,77,8.4,7.9,9,56000,0.9,Yes,10,188600,No
+43,Male,15.4,Bachelor's,71,6.6,6.1,7.2,64500,2.1,Yes,8,125500,No
+27,Female,0,Master's,98,9.9,6.1,3.9,45000,0.6,Yes,7.5,110300,Yes
+34,Female,7.3,Bachelor's,92,6.9,8.2,8.4,54500,2.3,Yes,6.4,102400,No
+46,Female,7,Bachelor's,69,8.6,4.7,4.9,38500,2.1,Yes,7.8,105200,No
+33,Female,8.5,Bachelor's,82,8.3,7.4,5,56000,0.6,Yes,8.5,135700,Yes
+41,Female,7.4,Bachelor's,56,6.3,3.9,5.3,44500,0.4,No,,,
+31,Female,7.3,Bachelor's,71,7.5,6,7.1,52500,1.9,No,,,
+32,Female,5.1,Bachelor's,45,7,9.1,6.4,34000,3.2,Yes,6.7,100500,No
+31,Female,3.5,Bachelor's,61,6.2,6.1,5.6,38000,1.7,Yes,6.7,69000,Yes
+50,Female,12.9,Diploma,61,9,7.3,7.3,51000,3,No,,,
+28,Female,0.9,Bachelor's,62,8.6,5,4.4,34000,1.8,No,,,
+26,Female,0.6,Diploma,63,6.5,7.1,6.4,38000,3.1,Yes,6.8,108900,Yes
+45,Female,10.2,Bachelor's,89,6.1,4.1,6.2,58500,1.6,Yes,7.7,128500,Yes
+37,Female,7.9,Bachelor's,68,6.2,2.9,4.1,48000,3.7,No,,,
+33,Male,8.9,High School,71,7.8,8,8.1,53500,1.3,Yes,9.1,98700,Yes
+32,Male,7,Diploma,52,7.2,5.5,6.9,41500,2.7,Yes,7,103800,Yes
+39,Male,5.6,Bachelor's,74,7.5,5.7,3.4,50500,0.7,Yes,10,116900,No
+36,Female,5.6,Bachelor's,58,7,5.1,4.3,42000,1.5,Yes,6.1,50100,Yes
+49,Female,16.8,Bachelor's,82,8.1,8,6.9,68000,3.8,Yes,7.3,110900,Yes
+33,Male,3.4,Diploma,72,10,7.2,4.9,40000,3.2,No,,,
+40,Female,11.7,Diploma,69,4.9,7.5,6.1,58000,1.4,Yes,8.4,122300,Yes
+36,Male,8.3,Master's,82,8.8,3.2,6.6,52000,1.4,No,,,
+52,Male,16,Master's,86,6.8,4.1,7.4,60500,2.7,No,,,
+49,Female,9.5,Bachelor's,71,6,6.5,6.3,54500,1.2,Yes,6.1,101600,Yes
+40,Male,9.6,Bachelor's,83,7,4.9,5.5,48000,2.2,Yes,7.9,134400,Yes
+33,Female,4.3,High School,67,8.2,7,6.3,34500,2,Yes,7.6,107800,No
+33,Female,9,Bachelor's,69,7.7,6.8,7.8,42000,3.6,Yes,8.1,148100,Yes
+29,Female,6.6,Diploma,98,6.3,4.3,5.2,53500,0.9,No,,,
+42,Non-binary,6.8,Diploma,55,7.1,8.2,6.1,40000,3.9,No,,,
+36,Female,6.6,Diploma,90,9,10,7.6,48500,3,No,,,
+53,Male,13.1,Master's,48,5.9,2.9,6.2,54500,2.5,No,,,
+24,Female,0,Bachelor's,82,8.5,7.3,6.1,41000,0.2,Yes,6.8,107400,Yes
+36,Male,8.8,Bachelor's,52,8.7,10,7.3,39500,2.8,Yes,9.4,141000,Yes
+45,Male,9.9,Bachelor's,89,7.4,6.5,5.3,49000,3.1,Yes,10,196200,Yes
+40,Male,5.8,Bachelor's,49,6.8,7.7,6.1,45000,0.8,No,,,
+44,Male,7.9,Bachelor's,43,8.4,6.4,5.3,53000,2.8,No,,,
+37,Male,8.8,Bachelor's,71,7.1,4.5,6.2,45000,2.5,Yes,8.1,94800,Yes
+37,Male,8.1,Bachelor's,91,7,3.1,2.3,53500,2.1,Yes,8,98100,Yes
+44,Male,12.1,Bachelor's,57,6.1,5.5,10,51500,6.2,Yes,6.4,87000,Yes
+33,Male,6.7,Diploma,64,8.7,8.7,6.4,38500,0.9,Yes,7.4,129600,Yes
+36,Male,9.2,Bachelor's,79,8.9,7.6,7.8,43500,0.4,Yes,10,141500,Yes
+48,Male,19.4,Master's,98,8.3,4.9,7,71500,3.5,Yes,8,127800,Yes
+41,Male,8.3,Master's,70,7.2,6,6.4,52500,0.8,No,,,
+32,Female,5.1,Master's,56,6.6,5.1,6,44500,1,No,,,
+41,Male,12.4,Diploma,62,7,7,10,51000,4.2,No,,,
+24,Male,4.6,Master's,93,9.6,6.5,5.7,49000,0.2,Yes,7.8,109300,Yes
+31,Female,8.9,Master's,44,5.7,5.4,4.3,44500,0.2,No,,,
+46,Female,15.5,Master's,69,8.4,6.8,9.9,61500,2.4,Yes,7.9,140400,Yes
+38,Female,6.3,Master's,32,5.7,5.2,6.8,34500,3.4,No,,,
+28,Female,0.7,Diploma,51,6.5,4.7,4.5,28000,0.9,No,,,
+31,Male,7.2,Bachelor's,49,5.6,3.7,4.2,51500,3.1,Yes,5.1,71600,Yes
+34,Female,3.8,Diploma,62,7.7,4.9,6.1,37000,2.7,Yes,6.1,62800,No
+37,Male,8.2,Master's,91,9.2,6.4,7.4,51500,2.7,No,,,
+37,Male,11.3,Diploma,67,7.3,4.3,6.6,54000,2.5,Yes,10,127200,Yes
+23,Female,0,Diploma,62,7.2,6,5.9,32500,2.3,No,,,
+52,Male,13,Diploma,94,8.5,7,5.9,66000,4,Yes,9.8,138600,No
+38,Female,7.8,Bachelor's,80,7.4,4.2,7.4,39500,1.5,Yes,6.8,128700,No
+34,Male,6.3,Bachelor's,63,7.2,7.6,6.1,37000,2,Yes,9.7,152600,Yes
+34,Female,6.6,Bachelor's,65,6.7,5.4,4.3,41500,1.2,No,,,
+34,Male,1.4,Master's,85,9,8.5,8.2,32500,1.9,Yes,7.8,104600,Yes
+40,Female,10.3,Master's,42,7.2,7.6,6.4,44000,1.6,Yes,8.1,128200,Yes
+38,Male,8.1,Bachelor's,58,6,5.7,5.9,49500,1.5,Yes,7.3,144900,No
+34,Male,7.6,Master's,65,4.5,6.8,5.7,51000,1.2,No,,,
+40,Male,9.2,Bachelor's,45,7.6,5.5,2.7,52500,0.2,No,,,
+51,Male,12,Master's,94,7.9,9,8.2,59000,3.1,Yes,6.9,192600,No
+31,Male,5.1,Bachelor's,50,5.8,4.8,3.8,38000,1.4,No,,,
+35,Male,6.2,Diploma,44,8.7,8.9,9.1,44000,2.9,No,,,
+37,Male,12.5,High School,71,7.8,5.2,6.3,54500,2.1,No,,,
+34,Female,6,Master's,81,8.1,8.1,6.6,48000,3.2,Yes,6.7,97100,Yes
+46,Female,15.4,Diploma,84,6.4,5.6,7.3,56000,3.2,Yes,7.4,148200,Yes
+29,Female,4.1,Master's,81,6.4,3.2,4.4,44000,1.5,Yes,7.2,86300,No
+39,Female,10.3,Master's,91,5.5,5.3,6,53500,2.9,No,,,
+25,Male,0,Bachelor's,66,7.7,5.4,3.9,33500,0.9,Yes,6.6,81400,Yes
+41,Male,8.6,Bachelor's,76,6.6,7.7,7.7,57000,1.9,Yes,6.2,115500,Yes
+36,Male,3,Bachelor's,57,7.3,6,7.5,36000,0.7,Yes,8.2,74600,No
+27,Female,2.9,Diploma,73,5.8,3.1,7.2,44500,0.2,No,,,
+36,Male,6.8,Bachelor's,96,7.8,3.9,4,50000,0.5,No,,,
+53,Female,13.7,Master's,50,6.2,6,5,59500,2.8,No,,,
+29,Male,2.6,High School,68,7.1,5.2,3.9,38000,2.3,Yes,6.2,84700,Yes
+37,Male,6.5,Bachelor's,87,10,7.6,7.7,39500,1.9,No,,,
+33,Male,6.7,Diploma,47,6.8,6.5,6.9,32500,0.4,Yes,6.9,105400,No
+40,Male,10.2,Diploma,72,6.9,5.5,5.1,53500,3.3,Yes,7.1,111300,Yes
+34,Female,11.8,Bachelor's,76,6.7,3.1,5.2,56000,1.7,No,,,
+45,Male,11.5,High School,69,7,5.8,5.7,55000,3.6,No,,,
+35,Female,12.4,Diploma,68,6,6.7,4.1,57000,3.4,No,,,
+36,Female,2.1,High School,75,7.3,4.3,3.9,33000,0.8,No,,,
+48,Male,15.4,Master's,95,6.7,5.2,6.7,63500,0.4,No,,,
+34,Female,6.9,High School,68,6,7.4,6,49500,1.7,Yes,7.4,92500,Yes
+39,Female,6.4,Master's,52,6.2,4.4,4.5,42000,3.8,No,,,
+40,Male,16.9,Bachelor's,88,7.9,7.5,5.3,58500,3.8,Yes,7.1,143400,Yes
+44,Female,8.1,Diploma,89,6.9,2.1,4.4,52000,1.7,No,,,
